@@ -1,9 +1,18 @@
 ### Hi there 👋
-![ezgif-1-04d1473363](https://user-images.githubusercontent.com/82298647/178125268-251f21cc-5da2-4134-8d85-e247c3260a0c.gif)
+I'm Amin. You can call me Robotnik if you like! 🤖
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/82298647/178125598-37b040fc-f0c9-45f5-969e-27257508110c.gif)
+
+🤓 I'm a bachelor's student in computer engineering and I'm looking forward to enrolling in a master's degree program in AI right after.
+
+⚡ HOWEVER, I self-study many topics in CS and beyond, and honestly 90% of everything I know has been learnt through self-study.
+
+🔮 Right now, I'm working on machine learning projects in NLP domain.
+
+
 
 <!--
 **Amin-2001/Amin-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
