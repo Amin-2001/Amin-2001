@@ -1,5 +1,5 @@
 <p align="center">
-  I'm Amin. You can call me Robotnik if you like! 🤖
+  I'm Amin. You can call me Robotnik if you like! 🤪
 </p>
 
 <p align="center">
